@@ -8,7 +8,7 @@
 
 ### About me
 
-I'm a **Computer Science student at Cal State Fullerton** with hands-on experience building and deploying web and mobile applications. From developing Flutter interfaces at **V1** to collaborating on full-stack applications, I bring a practical approach to solving problems and making software easy to use. As a former **lead coding instructor at Coding Mind Academy**, I've also helped students turn complex concepts into working projects—experience that shapes how I communicate, collaborate, and support others.
+I'm a **Computer Science student at Cal State Fullerton** with hands-on experience building and deploying web and mobile applications. From developing Flutter interfaces at **V1** to collaborating on full-stack applications, I bring a practical approach to solving problems and making software easy to use. As a former **lead coding instructor at Coding Mind Academy**, I've also helped students turn complex concepts into working project experience that shapes how I communicate, collaborate, and support others.
 
 ### At a glance
 
