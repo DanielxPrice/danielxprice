@@ -1,6 +1,10 @@
 ﻿<h1 align="center">Hi, I'm Daniel Price 👋</h1>
 <p align="center"><strong>Software Developer · Full-Stack Web & Mobile</strong></p>
 <p align="center">
+  <strong><a href="https://danielprice.vercel.app/">Visit my portfolio →</a></strong><br>
+  <sub>danielprice.vercel.app</sub>
+</p>
+<p align="center">
   <a href="https://www.linkedin.com/in/danielprice123/">LinkedIn</a> ·
   <a href="mailto:danielprice1642@gmail.com">Email</a> ·
   <a href="https://github.com/DanielxPrice?tab=repositories">Projects</a>
